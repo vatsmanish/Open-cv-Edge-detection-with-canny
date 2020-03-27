@@ -1,5 +1,7 @@
 # Open-cv-Edge-detection-with-canny
 
+This co-ordinate.ipynb file is edge detection file using canny
+
 Use the OpenCV function Canny to implement the Canny Edge Detector.
 Theory
 The Canny Edge detector was developed by John F. Canny in 1986. Also known to many as the optimal detector, Canny algorithm aims to satisfy three main criteria:
